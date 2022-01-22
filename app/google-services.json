@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "359929953840",
+    "firebase_url": "https://zivotot-e-krug-63130-default-rtdb.firebaseio.com",
+    "project_id": "zivotot-e-krug-63130",
+    "storage_bucket": "zivotot-e-krug-63130.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:359929953840:android:7c4206bae8395abbe037f5",
+        "android_client_info": {
+          "package_name": "com.example.zivototekrug"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "359929953840-cv9rnskirpc99an971gujla1upenm92i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5oBaoSJ7MdhOF8p10zyRxsEpfjlQqJvY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "359929953840-cv9rnskirpc99an971gujla1upenm92i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

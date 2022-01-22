@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Zivotot e krug</string>
+
+    <string-array name="users">
+        <item>Повозрасно лице</item>
+        <item>Волонтер</item>
+    </string-array>
+
+    <string-array name="itnost">
+        <item>Итно</item>
+        <item>Не е итно</item>
+    </string-array>
+    <string name="title_activity_maps">MapsActivity</string>
+</resources>
